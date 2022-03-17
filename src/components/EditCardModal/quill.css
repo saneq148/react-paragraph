@@ -1,0 +1,6 @@
+.quill.full .ql-editor {
+  min-height: 200px;
+}
+.quill.one-line .ql-editor {
+  min-height: 50px;
+}
